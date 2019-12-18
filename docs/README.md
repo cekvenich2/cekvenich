@@ -12,4 +12,10 @@ helps with perspective. I pride self for being a trailblazer, and a web expert.
 On a personal note: I did a few ‘Olympic’ triathlons and I am contribute and maintain open source projects.
 
 ####  Some of the tech I use:
-SQL, Node.js, Java, HTML5, Pug, CSS, JAMstack.org, Architecture, Agile, CMS, Distributed/Network Computing, Video.
+SQL, Node.js, Java, HTML5, Pug, CSS, Linux, JAMstack.org, Architecture, Agile, CMS, Distributed/Network Computing, Video.
+
+
+1
+![](vic.jpg)
+2
+[<img src="vic.jpg" width="400"/>]

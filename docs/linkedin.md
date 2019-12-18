@@ -1,2 +1,2 @@
 
-#### http://linkedin.com/in/vic-c
+#### http://LinkedIn.com/in/vic-C
