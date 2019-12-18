@@ -15,7 +15,7 @@
 
 ### Other
 
-- My networking back presume for dynamic API write up: <a id="raw-url" href="ntech.pdf">Struts</a> 
+- My networking back presume for dynamic API write up: <a id="raw-url" href="ntech.pdf">WWW Network tech</a> 
 
 - My resume: <a href="resume.doc" download>Resume</a>
 
