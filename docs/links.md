@@ -17,15 +17,7 @@
 
 - My internet back presure for dynamic API write up: 
 
-- My resume: 
+- My resume: <a href="vicC.doc" download>Resume</a>
 
-- My 2001 Open Source Book on Java Struts (MVC): 
+- My 2001 Open Source Book on Java Struts (MVC): <a id="raw-url" href="book.pdf">Struts</a> (I wrote the first book on Struts)
 
-
-<a id="raw-url" href="resume.pdf">Resume1</a>
-
-
-[Resume2](resume.pdf).
-
-
-<a href="resume.pdf" download>Resume3</a>
