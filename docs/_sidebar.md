@@ -1,3 +1,3 @@
 
-* [MetaBake](README.md)
-* [HTML/Pug and dat.yaml](pug.md)
+* [Bio](README.md)
+* [Links and projects](links.md)

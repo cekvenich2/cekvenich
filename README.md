@@ -1,2 +1,2 @@
 
-A host for https://cekvenich.github.io/cekvenich/
+A host for http://cekvenich.github.io/cekvenich
