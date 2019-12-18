@@ -3,7 +3,8 @@
 
 - RPC - https://github.com/intuition-dev/httpRPC
 - Low-code project: https://github.com/intuition-dev
-
+- Misc projects, including Java: https://github.com/cekvenich
+- My other project: https://github.com/intuition-dev
 
 ### My Articles
 
