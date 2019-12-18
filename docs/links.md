@@ -17,7 +17,7 @@
 
 - My networking back presume for dynamic API write up: <a id="raw-url" href="ntech.pdf">Struts</a> 
 
-- My resume: <a href="vicC.doc" download>Resume</a>
+- My resume: <a href="resume.doc" download>Resume</a>
 
 - My 2001 Open Source Book on Java Struts (MVC): <a id="raw-url" href="book.pdf">Struts</a> (I wrote the first book on Struts)
 
