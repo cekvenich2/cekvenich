@@ -14,6 +14,6 @@ helps with perspective. I pride self for being a trailblazer, and a scalability/
 On a personal note: I did a few ‘Olympic’ triathlons and I am contribute and maintain open source projects.
 
 ####  Some of the tech I use:
-Some of the tech I use: SQL, Node.js, Java, HTML5, Pug, CSS, Standard Custom Element(Webcomponents),  Mobile/Hybrid, Linux, JAMstack.org, Architecture, Phonegap, Agile, CMS, Distributed/Network Computing, Video.
+Some of the tech I use: SQL, Node.js, Java, HTML5, S3, NoSQL(Mongo) Pug, CSS, Data visualization, Linux, Markdown, Mobile/Hybrid, JAMstack.org, Architecture, Custom Element(FW agnostic Webcomponents), Phonegap, Agile, CMS, Distributed/Network Computing, Video.
 
 [<img src="vic.jpg" width="400"/>]
