@@ -15,7 +15,7 @@
 
 ### Other
 
-- My 2001 Open Source Book on Java Struts (MVC): 
+- Java 2020: https://github.com/intuition-dev/SNX/blob/master/docs/2020short.md 
 - First book on MVC / Struts @2001 <a id="raw-url" href="book.pdf">Struts</a> (I wrote the first book on Struts) - open sourced- Won Trainer of the Year, by JDJ
 - My networking back presume for dynamic API write up: <a id="raw-url" href="ntech.pdf">WWW Network tech</a> 
 - My old memo on SQL: <a id="raw-url" href="sql.pdf">SQL</a> 
