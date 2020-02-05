@@ -1,9 +1,9 @@
 
 # Vic Cekvenich
 
-'I code and manage people smarter than me'
+'I code and manage people smarter than me'. Remote preferred. <br />
 
-A seasoned technology executive with experience in team building, innovation, back end and front end development. I love coding and this is an influence on the team.
+Seasoned technology leader with experience in remote development, team building, innovation, back end and front end development. I love coding and this is an influence on the team.
 
 At the beginning of my career, I worked on DB performance optimization, then startups
 and networks. Some highlights over the years include working at NASA, mastering
