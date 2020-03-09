@@ -21,5 +21,5 @@
 - Riot https://medium.com/@cekvneich/learn-riot-js-dynamic-binding-in-90-seconds-fcece5237c67
 - My networking back presume for dynamic API write up: <a id="raw-url" href="ntech.pdf">WWW Network tech</a> 
 - My old memo on SQL: <a id="raw-url" href="sql.pdf">SQL</a> 
-- Write up on my Apakau edge-network/DDOS tech: <a id="raw-url" href="apakau.pdf">SQL</a> 
+- Write up on my Apakau edge-network/DDOS tech: <a id="raw-url" href="apakau.pdf">DDOS tech</a> 
 
