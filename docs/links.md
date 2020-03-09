@@ -12,7 +12,7 @@
 - Back end: https://medium.com/@cekvneich/short-review-of-basics-of-full-stack-big-data-scalability-and-clusters-of-distributed-data-bcc8e3a8abd3
 - Medium: https://medium.com/me/stories/public
 - Front End Development with JAMStack https://dev.to/cekvenich/advanced-front-end-development-with-jamstack-that-leverage-expressjs-s-built-in-pug-markup-plus-hands-on-examples-dh9
-
+- Low code: https://medium.com/@cekvneich/how-software-developers-can-survive-the-coming-tech-crash-796dd8dc5a7e
 
 ### Other
 
@@ -21,4 +21,5 @@
 - Riot https://medium.com/@cekvneich/learn-riot-js-dynamic-binding-in-90-seconds-fcece5237c67
 - My networking back presume for dynamic API write up: <a id="raw-url" href="ntech.pdf">WWW Network tech</a> 
 - My old memo on SQL: <a id="raw-url" href="sql.pdf">SQL</a> 
+- Write up on my Apakau edge-network/DDOS tech: <a id="raw-url" href="apakau.pdf">SQL</a> 
 
