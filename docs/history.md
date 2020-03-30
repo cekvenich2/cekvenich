@@ -3,10 +3,10 @@
 #### Work History:
 
 ◦  MetaBake.net LLC, NY (Jan. 2017 – Present): Vice President Of Engineering
-    MetaBake LLC is freelance remote development shop specializing in low-cost low-code development. Consulting, custom development and training- solutions that are maintainable and future safe. Project include a market-product-fit 'survey'.
+    MetaBake LLC is freelance remote development shop specializing in low-cost low-code development. Consulting, custom development and training- solutions that are maintainable and future safe. Project include a market-product-fit 'survey'. (I wrote the prototype and hired the offshore team).
 
 ◦  Apakau,  CA(Oct.  2012 – Dec 2016): Principal Engineer/Founder/CTO
-    Eliminates the possibility of DDoS attacks to dynamic APIs via globally deployed Cloud Proxies that intercept HTTP request and accelerate traffic under load without caching, using QOS priority.  Tech: Security from DDOS, Java, Node, Kafka, Architecture, Network/REST/HTTP, Dashboard, HTML5 tech/CSS.
+    Eliminates the possibility of DDoS attacks to dynamic APIs via globally deployed Cloud Proxies that intercept HTTP request and accelerate traffic under load without caching, using QOS priority.  Tech: Security from DDOS, Java, Node, Kafka, Architecture, Network/REST/HTTP, Dashboard, HTML5 tech/CSS. (I wrote the prototype in Java and hired a local team).
 
 ◦ Rocket Ninja, CA(Jun 2011 – Sept. 2012): VP Engineering	
     A gaming company working on e-cards, 3D chat and related. Upgraded development process and skills, for example splitting up front end and back end code. This dramatically improved the competitiveness of the company. Tech: Architecture, Java, ActionScript, HTML5 tech.
