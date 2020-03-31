@@ -2,7 +2,7 @@
 
 #### Work History:
 
-◦  MetaBake.net LLC, NY (Jan. 2017 – Present): Vice President Of Engineering
+◦  MetaBake.net LLC, FL (Jan. 2017 – Present): Vice President Of Engineering
     MetaBake LLC is freelance remote development shop specializing in low-cost low-code development. Consulting, custom development and training- solutions that are maintainable and future safe. Project include a market-product-fit 'survey'. (I wrote the prototype and hired the offshore team).
 
 ◦  Apakau,  CA(Oct.  2012 – Dec 2016): Principal Engineer/Founder/CTO

@@ -9,7 +9,8 @@ At the beginning of my career, I worked on DB performance optimization, then sta
 and networks. Some highlights over the years include working at NASA, mastering
 SQL performance under load, publishing an early book on Java, before switching to front end
 and web development. I also won trainer of the year by JDJ. The experience I have
-helps with perspective. I pride self for being a trailblazer, and a scalability/web expert. 
+helps with perspective. I am proud to be a scalability/web expert. 
+I have experience in managing offshore team of up to 120 members, organizing and conducting meetings for project requirements and status discussions.
 
 On a personal note: I did a few ‘Olympic’ triathlons and I am contribute and maintain open source projects.
 
