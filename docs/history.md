@@ -31,5 +31,3 @@
 ◦ SEI - TX (1996-99): Instructor;  I did vendor certified training in 12 front end and back end public and private courses.
 
 ◦ Computer Science Corporation, TX (1993-95): Sr. Architect; One project was Ford.
-
-◦ Omnicom/Rapp, NYC(1990-1994): MIS; DB Marketing, dBase, SQL

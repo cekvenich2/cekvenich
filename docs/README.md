@@ -11,7 +11,7 @@ SQL performance under load, publishing an early book on Java. I also won trainer
 helps with perspective. I am proud to be a scalability/web expert. 
 I have experience in managing an offshore team of up to 120 members, organizing and conducting meetings for project requirements and status discussions.
 
-On a personal note: I did a few ‘Olympic’ triathlons and I contribute and maintain open-source projects.
+On a personal note: I did a few triathlons and I contribute and maintain open-source projects.
 
 ####  Some of the tech I use:
 Some of the tech I use: SQL, Java, Netty, Node.js, VLDB, SEO, HTML5, S3, NoSQL(Mongo) Pug, CSS, APIs, Data visualization, Linux, Markdown, Mobile/Hybrid, JAMstack.org, Architecture, Custom Elements, Cordova, Kafka, Docker, Agile, CMS, Distributed/Network Computing, Video, remote development.
