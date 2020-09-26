@@ -17,3 +17,9 @@ On a personal note: I did a few triathlons and I contribute and maintain open-so
 Some of the tech I use: SQL, Java, Netty, Node.js, VLDB, SEO, HTML5, S3, NoSQL(Mongo) Pug, CSS, APIs, Data visualization, Linux, Markdown, Mobile/Hybrid, JAMstack.org, Architecture, Custom Elements, Cordova, Kafka, Docker, Agile, CMS, Distributed/Network Computing, Video, remote development.
 
 [<img src="vic.jpg" width="400"/>]
+
+Highlights:
+- Gituhub Arctic Code Vault Contributor 
+- First book on Struts
+- Won trainer of the year
+- First non MS instructor on advanced SQL P&T
