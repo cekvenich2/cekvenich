@@ -8,7 +8,7 @@
 
 ### My Articles
 
-- Java 2020: https://github.com/intuition-dev/SNX/blob/master/docs/2020short.md 
+- Java 2020: https://intuition-dev.github.io/SNX/#/README
 - Back end: https://medium.com/@cekvneich/short-review-of-basics-of-full-stack-big-data-scalability-and-clusters-of-distributed-data-bcc8e3a8abd3
 - Medium: https://medium.com/me/stories/public
 - Front End Development with JAMStack https://dev.to/cekvenich/advanced-front-end-development-with-jamstack-that-leverage-expressjs-s-built-in-pug-markup-plus-hands-on-examples-dh9
@@ -16,6 +16,8 @@
 
 ### Other
 
+- Budgets: https://cekvenich.github.io/mgt
+- Management: https://cekvenich.github.io/mgtbook
 - Low-code: https://medium.com/@cekvneich/how-software-developers-can-survive-the-coming-tech-crash-796dd8dc5a7e
 - First book on MVC / Java Struts @2001 <a id="raw-url" href="book.pdf">Struts</a> (I wrote the first book on Struts) - open sourced- Won Trainer of the Year, by JDJ
 - Riot https://medium.com/@cekvneich/learn-riot-js-dynamic-binding-in-90-seconds-fcece5237c67
