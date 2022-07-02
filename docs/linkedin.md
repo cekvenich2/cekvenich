@@ -1,5 +1,5 @@
 
-Linked in: ##### http://linkedIn.com/in/vic-C
+### Linked in:  http://linkedIn.com/in/vic-C
 
 - My resume: <a href="vicRes1.pdf" download>Resume</a>
 
