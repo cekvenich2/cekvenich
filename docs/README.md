@@ -19,7 +19,6 @@ Some of the tech I use: SQL, Java, Netty, Node.js, VLDB, SEO, HTML5, S3, NoSQL(M
 [<img src="vic.jpg" width="400"/>]
 
 Highlights:
-- Github Arctic Code Vault Contributor 
 - First book on Struts
 - Won trainer of the year
 - First non MS instructor on advanced SQL P&T

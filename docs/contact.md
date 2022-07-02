@@ -1,9 +1,5 @@
 # Vic Cekvenich
 
-Skype: netsql
+E-mail - vic850c(at)gmail.com, please send a calendar invite.
 
-E-mail - vic(at)eml.cc, please send a calendar invite.
-
-No phone calls please.
-
-[<img src="v2.jpg" width="300"/>]
+[<img src="vic.jpg" width="300"/>]
